@@ -1,0 +1,6 @@
+database_username: root
+database_password: 123456
+database_name: contacts
+database_host: localhost
+database_port: 3306
+
